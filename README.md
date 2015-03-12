@@ -33,9 +33,9 @@ You will need the following things properly installed on your computer.
 
 This repo is set up to run with live updating turned on. Edit files, save them, and the app refreshes (whether it's browser or device emulation)
 
-* `ember`
-* `ember cordova emulate ios`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
+* `ember serve`
+* `ember cordova emulate ios` (in another terminal) 
+* Visit your app at [http://localhost:4200](http://localhost:4200) or in the ios emulator and watch the app update as you save files!
 
 ### Code Generators
 
